@@ -1,3 +1,5 @@
-# ansible_begining
+# WORKING WITH ANSIBLE
+***install ansible***
 
-Hello, GitHub!
+<li> sudo apt update
+ 
